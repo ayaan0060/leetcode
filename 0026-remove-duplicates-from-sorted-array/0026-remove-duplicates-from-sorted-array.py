@@ -7,4 +7,3 @@ class Solution:
                 start+=1
                 nums[start]=nums[i]
         return start+1
-
